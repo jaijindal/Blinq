@@ -44,15 +44,25 @@ Improving the structure and design of the sensorboard for greater marketability.
 ## What We Learnt 
 
 Tensorflow
+
 TFLite
+
 Keras
+
 Pandas
+
 Tesseract OCR
+
 Numpy
+
 OpenCV
-Flutter 
+
+Flutter
+
 HC05 Bluetooth module
+
 DHT 11: Temperature and Humidity Sensor
+
 Ultrasonic sensor (HC-SR04)
 
 
