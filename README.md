@@ -4,9 +4,9 @@
 
 This is a submission for MLDA Deep Learning Week Hackathon. 
 
-1) The [Datasets Folder](Datasets/) contains the dataset image for our ML Model for object detection....
-2) The [Presentation Folder](Presentation/) contains our PPT and Video for project demonstration purposes.
-3) The [Code Folder](Code/) contains the [Final Jupyter File](Code/DSAI_Project_Final.ipynb) that includes cleaning the dataset, data exploration, and ML Model. The [PKL File](Code/logReg_model.pkl) is the pickled ML Model extracted from the [Final Jupyter File](Code/DSAI_Project_Final.ipynb). The [Py Python File](Code/heart_predict_final.py) is used to program streamlit and use the ML Model in [PKL File](Code/logReg_model.pkl)  to predict probability of heart disease. If you wish to run the streamlit webapp in your own device, you will have to edit lines 22 and 215 of heart_predict_final.py to update the address of heart.jpg and logReg_Model.pkl.
+1) The [Main Code Folder](Main Code/) contains the main code used in flutter with all other functions integrated.
+2) The [Presentation Folder](Presentation/) contains our PPT for project demonstration purposes.
+3) The [Source Code Folder](Source Code/) contains the utility and helper functions. These are the raw codes across platforms with different functionalities that have been used to derive the main code.
 
 
 ## Problem Definition
