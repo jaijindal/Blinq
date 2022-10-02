@@ -50,14 +50,34 @@ Flutter, Tensorflow, TFLite, Keras, Pandas, Tesseract OCR, Numpy, OpenCV, Flutte
 ## References 
 
 https://medium.flutterdevs.com/live-object-detection-app-with-flutter-and-tensorflow-lite-a6e7f7af3b07
+
 https://viso.ai/deep-learning/yolov3-overview/
+
 https://github.com/hiennguyen92/flutter_realtime_object_detection
+
 https://blog.devgenius.io/recognize-text-on-an-image-in-flutter-c8da05fe043e
+
 https://pub.dev/packages/tflite#Object-Detection
+
 https://www.thingiverse.com/thing:3318918
+
 https://www.youtube.com/watch?v=2n0ja7ALyDY
+
 https://medium.flutterdevs.com/live-object-detection-app-with-flutter-and-tensorflow-lite-a6e7f7af3b07
+
 https://pub.dev/packages/google_mlkit_object_detection
+
 https://www.snec.com.sg/giving/singapores-eye-health
+
 https://apps.microsoft.com/store/detail/bluetooth-serial-terminal/9WZDNCRDFST8?hl=en-us&gl=us
+
+https://create.arduino.cc/projecthub/danielkrause777/hc-05-bluetooth-setup-and-troubleshooting-187eb3
+
+https://towardsdatascience.com/optical-character-recognition-ocr-with-less-than-12-lines-of-code-using-python-48404218cccb
+
+https://python.plainenglish.io/turn-your-python-code-into-an-api-in-a-few-minutes-with-sanic-a919b6ad6b4b?gi=156e5b86c26
+
+https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239
+
+https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
 
