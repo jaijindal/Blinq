@@ -20,6 +20,10 @@ We have developed a SMART cane using arduino along with a technological assistiv
 
 1) SMART Cane Obstacle Detection 
 
+Our SMART Cane is equipped with Ultrasonic sensor (HC-SRO4) attached to the arduino and linked to mobile application via bluetooth (HC05) that detects any incoming obstacle in a 2 meter radius. This enables the user to be aware of any possible obstruction in his/her immediate surroundings while walking. Our SMART cane is also equipped with temperature and humidity sensor which warns the user of incoming temperature changes and rain.
+
+2) ML Live Environment Tracker 
+
 
 
 
