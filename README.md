@@ -48,3 +48,11 @@ Flutter, Tensorflow, TFLite, Keras, Pandas, Tesseract OCR, Numpy, OpenCV, Flutte
 
 
 ## References 
+
+https://medium.flutterdevs.com/live-object-detection-app-with-flutter-and-tensorflow-lite-a6e7f7af3b07
+https://viso.ai/deep-learning/yolov3-overview/
+https://github.com/hiennguyen92/flutter_realtime_object_detection
+https://blog.devgenius.io/recognize-text-on-an-image-in-flutter-c8da05fe043e
+https://pub.dev/packages/tflite#Object-Detection
+https://www.thingiverse.com/thing:3318918
+
