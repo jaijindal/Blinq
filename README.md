@@ -6,7 +6,7 @@ This is a submission for MLDA Deep Learning Week Hackathon.
 
 1) The [Main Code Folder](Main_Code/) contains the main code used in flutter with all other functions integrated.
 2) The [Presentation Folder](Presentation/) contains our PPT for project demonstration purposes.
-3) The [Source Code Folder](Source_Code/) contains the utility and helper functions. These are the raw codes across platforms with different functionalities that have been used to derive the main code.
+3) The [Source Code Folder](Source%20Code/) contains the utility and helper functions. These are the raw codes across platforms with different functionalities that have been used to derive the main code.
 
 
 ## Problem Definition
