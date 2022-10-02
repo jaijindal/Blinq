@@ -16,21 +16,20 @@ In 2015, there were an estimated 253 million people with visual impairment world
 
 ## About The Project 
 
-We have developed a SMART cane using arduino along with a technological assistive application available for android and ios that works using spoken commands that allow the user to perform one of the 3 functions listed below: 
+We have developed a SMART cane using arduino along with a technological assistive application available for android and ios that works using spoken commands that allow the user to perform the 3 functions listed below: 
 
-1) SMART Cane Obstacle Detection 
+1) SMART Cane Obstacle Detection  
 
-Our SMART Cane is equipped with Ultrasonic sensor (HC-SRO4) attached to the arduino and linked to mobile application via bluetooth (HC05) that detects any incoming obstacle in a 2 meter radius. This enables the user to be aware of any possible obstruction in his/her immediate surroundings while walking. Our SMART cane is also equipped with temperature and humidity sensor which warns the user of incoming temperature changes and rain.
+Our SMART Cane is equipped with Ultrasonic sensor (HC-SRO4) attached to the arduino and linked to mobile application via bluetooth (HC05) that detects any incoming obstacle in a 2 meter radius. This enables the user to be aware of any possible obstruction in his/her immediate surroundings while walking. Our SMART cane is also equipped with temperature and humidity sensor which warns the user of incoming temperature changes and rain. 
 
 2) ML Live Environment Tracker
 
-
+There are often instances when a visually impaired person might not have any idea of their surroundings and might need assistance in identifying nearby objects
 
 
 3) Tesseract Text Reader
 
-
-
+We understand how it might be extremely frustrating for a visually impaired person to not be able to read notices / menus / food labels and hence we have developed a function that allows the user to point their phone camera at the object and ask the application to identify and read the text for them through spoken command.
 
 
 ## Future Scope
