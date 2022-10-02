@@ -36,9 +36,10 @@ We understand how it might be extremely frustrating for a visually impaired pers
 
 - ‘Fall Alert’ feature that uses accelerometer to detect when the user falls down, and automatically calls user’s emergency contact.
 - Community feature that matches volunteers to users that might require help in certain situations such as travelling to the doctor and urgent assistance. 
+- Inbuilt voice activated GPS system provided as an additional feature of the application. 
 - Customizable component that can be used to fit the sensorboard device onto any cane efficiently. 
 - An option to have a smart shoe as an alternative for users that do not wish to use a cane. 
-Improving the structure and design of the sensorboard for greater marketability.
+- Improving the structure and design of the sensorboard for greater marketability.
 
 
 ## Modules Used
