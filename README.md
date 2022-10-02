@@ -16,7 +16,7 @@ In 2015, there were an estimated 253 million people with visual impairment world
 
 ## About The Project 
 
-We have developed a SMART cane using arduino along with a technological assistive application available for android and ios that works using spoken commands that allow the user to perform the 3 functions listed below: 
+We have developed a SMART cane using arduino along with a technological assistive application (FLUTTER)  available for android and ios that works using spoken commands that allow the user to perform the 3 functions listed below: 
 
 1) SMART Cane Obstacle Detection  
 
@@ -43,7 +43,7 @@ Improving the structure and design of the sensorboard for greater marketability.
 
 ## Modules Used
 
-Tensorflow, TFLite, Keras, Pandas, Tesseract OCR, Numpy, OpenCV, Flutter, HC05 Bluetooth module, DHT 11: Temperature and Humidity Sensor, Ultrasonic sensor (HC-SR04)
+Flutter, Tensorflow, TFLite, Keras, Pandas, Tesseract OCR, Numpy, OpenCV, Flutter, HC05 Bluetooth module, DHT 11: Temperature and Humidity Sensor, Ultrasonic sensor (HC-SR04)
 
 
 ## References 
