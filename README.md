@@ -24,7 +24,7 @@ Our SMART Cane is equipped with Ultrasonic sensor (HC-SRO4) attached to the ardu
 
 2) ML Live Environment Tracker
 
-There are often instances when a visually impaired person might not have any idea of their surroundings and might need assistance in identifying nearby objects
+There are often instances when a visually impaired person might not have any idea of their surroundings and might need assistance in identifying nearby objects. Therefore our ML Live Environment Tracker enables the user to point the camera around him/her and the program will list down all objects in vicinty such as Cars, Trees, Pedestrians , Electronics , Stationery, Chairs etc through spoken command.
 
 
 3) Tesseract Text Reader
@@ -41,29 +41,9 @@ We understand how it might be extremely frustrating for a visually impaired pers
 Improving the structure and design of the sensorboard for greater marketability.
 
 
-## What We Learnt 
+## Modules Used
 
-Tensorflow
-
-TFLite
-
-Keras
-
-Pandas
-
-Tesseract OCR
-
-Numpy
-
-OpenCV
-
-Flutter
-
-HC05 Bluetooth module
-
-DHT 11: Temperature and Humidity Sensor
-
-Ultrasonic sensor (HC-SR04)
+Tensorflow, TFLite, Keras, Pandas, Tesseract OCR, Numpy, OpenCV, Flutter, HC05 Bluetooth module, DHT 11: Temperature and Humidity Sensor, Ultrasonic sensor (HC-SR04)
 
 
 ## References 
